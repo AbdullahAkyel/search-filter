@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "image":"https://img.freepik.com/free-icon/html-5_318-674234.jpg?w=2000",
+        "title":"HTML"
+    },
+    {
+        "id":2,
+        "image":"https://cdn-icons-png.flaticon.com/512/919/919826.png",
+        "title":"CSS"
+    },
+    {
+        "id":3,
+        "image":"https://cdn-icons-png.flaticon.com/512/919/919854.png",
+        "title":"JAVA"
+    },
+    {
+        "id":4,
+        "image":"https://cdn-icons-png.flaticon.com/512/5968/5968509.png",
+        "title":"JAVASCRİPT"
+    },
+    {
+        "id":5,
+        "image":"https://img.freepik.com/free-icon/php_318-698171.jpg",
+        "title":"PHP"
+    },
+    {
+        "id":6,
+        "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
+        "title":"REACT"
+    },
+    {
+        "id":7,
+        "image":"https://img.freepik.com/free-icon/snakes_318-368381.jpg",
+        "title":"PYTHON"
+    }
+]
